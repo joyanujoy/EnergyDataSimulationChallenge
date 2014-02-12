@@ -12,7 +12,7 @@ simple python webserver:
     Point your browser to http://127.0.0.1:8000/energy_consumption_vis.html
 
 
-d3.js will work only on modern browsers(I have tested it on chrome).
+On Vis 3, hover over the data points to see low, med, high distribution for a day as a donut chart. d3.js will work only on modern browsers(I have tested it on chrome).
 
 
 Files included:
